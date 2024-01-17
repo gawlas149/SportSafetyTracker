@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SportSafetyTracker</string>
+    <string name="tracker">Safety Tracker</string>
+    <string name="settings">Settings</string>
+    <string name="default_message">Emergency Alert! SportSafetyTracker detected an accident</string>
+    <string name="location_message_prefix">My Location:</string>
+    <string name="cancel_crash_text">I\'m fine</string>
+    <string name="remaining_time_text">Remaining time to message sending:</string>
+    <string name="crash_detected">Crash detected!</string>
+</resources>
